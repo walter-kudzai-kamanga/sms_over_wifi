@@ -1,6 +1,6 @@
 name: sms_over_wifi
 description: A Flutter package to send SMS messages over Wi-Fi without a SIM card
-version: 1.0.0
+version: 2.0.0
 homepage: https://github.com/walter-kudzai-kamanga/sms_over_wifi
 repository: https://github.com/walter-kudzai-kamanga/sms_over_wifi.git
 issue_tracker: https://github.com/walter-kudzai-kamanga/sms_over_wifi/issues
@@ -14,6 +14,7 @@ dependencies:
     sdk: flutter
   http: ^1.1.0
   dio: ^5.0.0
+  mailer: ^6.0.1
 
 dev_dependencies:
   flutter_test:
